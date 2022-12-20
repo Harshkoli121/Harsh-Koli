@@ -98,7 +98,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xHarshkoli/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/0xHarshkoli/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -106,7 +106,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/harsh-koli-3a7327180/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xharshkoli-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  harshkoli-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -114,15 +114,15 @@
 
 <li>
 <a href="https://twitter.com/HarshKo97826127" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  harshkoli-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:0xharshkoli121@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xharshkoli-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:harshkoli121@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  harshkoli-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
